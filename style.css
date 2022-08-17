@@ -78,7 +78,7 @@
     font-family: 'Outfit', sans-serif;
   }
 
-  section {
+  .card {
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
